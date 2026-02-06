@@ -1,0 +1,107 @@
+Power Scheme GUID: 11111111-1111-1111-1111-111111111111
+  Friendly Name: Devstudio Power Plan
+  Description: You're now on the best power plan
+  Subgroup GUID: 0012ee47-9041-4b5d-9b77-535fba8b1442  (Processor power management)
+    Setting GUID: 991010ea-2543-4e9a-86c3-b248c18a8bb1  (Minimum processor state)
+      AC Setting Index: 100
+      DC Setting Index: 100
+    Setting GUID: 7b044232-4187-4a1c-9c2d-f47d224e9764  (Maximum processor state)
+      AC Setting Index: 100
+      DC Setting Index: 100
+    Setting GUID: bc5038f7-23e0-4960-96da-33abaf5935ec  (Processor idle disable)
+      AC Setting Index: 1
+      DC Setting Index: 1
+    Setting GUID: 94d3a615-a899-4ac5-ae2b-e4d8f6353670  (System cooling policy)
+      AC Setting Index: 3
+      DC Setting Index: 3
+    Setting GUID: 893dee8e-2bef-41e0-89c6-b55d0929964c  (Processor idle threshold)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 5d76a2ca-e8c0-402f-a133-2158492d58ad  (Processor idle time check)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 4b2d9775-e3cc-4e7b-a539-6cb9b426587d  (Processor performance increase threshold)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 36b0b5be-51f5-49c0-a585-534b7bfe9d0c  (Processor performance increase policy)
+      AC Setting Index: 2
+      DC Setting Index: 2
+    Setting GUID: 447235c7-6468-44ca-8141-8ed75a0b5c82  (Processor performance decrease threshold)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 12a0abff-40f6-467b-9458-fa8ee72c064f  (Processor performance decrease policy)
+      AC Setting Index: 2
+      DC Setting Index: 2
+    Setting GUID: 40b33c31-4625-4f66-b7d3-31801816a486  (Processor performance increase time)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 3b04d4fd-1cc7-4f23-b1ea-2a8180c949f8  (Processor performance decrease time)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: ea062031-0e34-4ff1-9b6d-eb1059334028  (Processor performance time check)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 2a5372dc-2728-4f33-9ed8-6e0ac424e543  (Processor performance autonomous activity window)
+      AC Setting Index: 10
+      DC Setting Index: 10
+    Setting GUID: 54533251-82be-4824-96c1-47b60b740d00  (Processor performance autonomous mode)
+      AC Setting Index: 1
+      DC Setting Index: 1
+    Setting GUID: 6c2993b1-97da-4a2e-9e5f-563c7df9e07c  (Processor performance energy preference)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 238C9FA8-0AAD-41ED-83F4-97BE242C8F20  (Require password on wakeup)
+    Setting GUID: 0e796bdb-100d-47d6-a2d5-f7d2daa51f51  (Require password on wakeup)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 7516b95f-f776-4464-8c53-06167f40cc99  (Hard disk)
+    Setting GUID: 6738e2c4-e8a5-4a42-b16a-e040e769756e  (Turn off hard disk after)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 9596fb26-9850-41fd-ac3e-f7c3f00b4f90  (Sleep)
+    Setting GUID: 29f6c1db-86da-48c5-9fdb-f2b67b1f44da  (Sleep after)
+      AC Setting Index: 0
+      DC Setting Index: 0
+    Setting GUID: 94ac6d29-73ce-41a6-809f-6363ba21b47a  (Allow hybrid sleep)
+      AC Setting Index: 0
+      DC Setting Index: 0
+    Setting GUID: 9d7815a6-7ee4-497e-8888-515a05f02364  (Hibernate after)
+      AC Setting Index: 0
+      DC Setting Index: 0
+    Setting GUID: a9ceb8da-cd46-44fb-a98b-02af69de4623  (Allow wake timers)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 2a737441-1930-4402-8d77-b2bebba308a3  (USB settings)
+    Setting GUID: 085c8692-55ca-4ff6-b433-53c8a9130688  (USB selective suspend setting)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 4f971e89-eebd-4455-a8de-9e59040e7347  (Power buttons and lid)
+    Setting GUID: 7648efa3-ad9f-414c-bd50-8279eb36e02c  (Lid close action)
+      AC Setting Index: 0
+      DC Setting Index: 0
+    Setting GUID: 96996bc0-ad50-47ec-923b-5f6a359753d1  (Power button action)
+      AC Setting Index: 3
+      DC Setting Index: 3
+    Setting GUID: 4f971e89-eebd-4455-a8de-9e59040e7347  (Sleep button action)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 501a4d13-42af-4429-9fd1-a8218c268e20  (PCI Express)
+    Setting GUID: ee12f906-d277-404b-b6da-e5fa1a576df5  (Link State Power Management)
+      AC Setting Index: 0
+      DC Setting Index: 0
+  Subgroup GUID: 5db33225-5b80-45d7-a021-4ed6c783b36c  (Display)
+    Setting GUID: 17aaa29b-8b43-4b94-aafe-35f64daaf1ee  (Turn off display after)
+      AC Setting Index: 0
+      DC Setting Index: 30
+    Setting GUID: aded5e82-b909-4619-9949-f5d71dac0bcb  (Display brightness)
+      AC Setting Index: 100
+      DC Setting Index: 100
+    Setting GUID: f1fbfde2-a960-4165-9f88-50667911ce96  (Dimmed display brightness)
+      AC Setting Index: 100
+      DC Setting Index: 100
+    Setting GUID: 03680956-93bc-4294-bba6-4e0f09bb717d  (Enable adaptive brightness)
+      AC Setting Index: 0
+      DC Setting Index: 0
+    Setting GUID: 13d09884-0f76-4932-9a3d-9e0213b04ff7  (Console lock display off timeout)
+      AC Setting Index: 1
+      DC Setting Index: 1
